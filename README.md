@@ -1,4 +1,4 @@
-# Laravel 7 Eloquent 模型新增別名
+# Laravel 8 Eloquent 模型新增別名
 
 引入 cviebrock 的 eloquent-sluggable 套件來擴增 Eloquent 模型新增別名，別名是在網址裡面，藉由給每一個頁面一個不重複具有識別性的資料，達到以更語意化的方式存取資料，藉此提升搜尋引擎最佳化友善度。
 
