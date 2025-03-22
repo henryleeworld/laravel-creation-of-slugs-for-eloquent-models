@@ -1,4 +1,4 @@
-# Laravel 10 Eloquent 模型新增別名
+# Laravel 11 Eloquent 模型新增別名
 
 引入 cviebrock 的 eloquent-sluggable 套件來擴增 Eloquent 模型新增別名，別名是在網址裡面，藉由給每一個頁面一個不重複具有識別性的資料，達到以更語意化的方式存取資料，藉此提升搜尋引擎最佳化友善度。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/RXuMIfH.png)
+![](https://i.imgur.com/EjyaIbw.png)
 > 為了將亂七八糟的網址統一成電腦可讀，人類可讀，而且容易被搜尋引擎找到的形式
